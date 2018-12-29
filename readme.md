@@ -1,5 +1,7 @@
 # normalize-domain
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unshift/normalize-domain.svg)](https://greenkeeper.io/)
+
 Given a url, returns the fully qualified domain name.
 
 ## Installation 
